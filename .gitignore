@@ -1,0 +1,8 @@
+build.xml
+source_gen/
+source_gen.caches/
+classes_gen/
+.gradle/
+build/
+.idea/
+.mps-caches/

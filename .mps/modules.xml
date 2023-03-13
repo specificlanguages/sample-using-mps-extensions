@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.spclngs.rooms/com.spclngs.rooms.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.spclngs.rooms.build/com.spclngs.rooms.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.spclngs.rooms.sandbox/com.spclngs.rooms.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
