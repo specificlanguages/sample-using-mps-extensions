@@ -25,4 +25,6 @@ This sample project illustrates how to use MPS-extensions. In particular, it sho
 * The build solution `com.spclngs.rooms.build` (viewable in MPS) was created using the wizard (right-click on the
   project, choose _New ￫ Build Solution_). It was then adjusted.
     * MPS-extensions are added as a dependency of the build script. Their **artifacts location** is specified
-      as `./build/dependencies/de.itemis.mps.extensions` which is where the Gradle build will download them. 
+      as `./build/dependencies/de.itemis.mps.extensions` which is where the Gradle build will download them.
+    * The MPS project has a sandbox solution for trying things out, but we don't include it in the build because it
+      should not be part of the plugin.
